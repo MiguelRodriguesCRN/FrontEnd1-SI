@@ -1,0 +1,18 @@
+body {
+    color: rgb(24, 131, 10);
+    background-color: rgb(0, 0, 0);
+
+
+}
+
+.direita {
+    text-align: right;
+}
+
+.centro {
+    text-align: center;
+}
+
+.esquerda {
+    text-align: left;
+}
